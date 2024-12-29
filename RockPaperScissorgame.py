@@ -4,7 +4,7 @@ if(yourChoice >= 3 or yourChoice <0):
     print("Invalid number seclected")
 computerChoice = random.randint(0,2)
 print("Computer's choice is",computerChoice)
-
+#Raj Tiwari
 if(yourChoice == computerChoice):
     print("Its a draw")
 elif(yourChoice == 0 and computerChoice == 2):
